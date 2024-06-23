@@ -1,3 +1,7 @@
+Will be deleted whenever msikma updates pokesprite
+
+Gen 9 sprites are from <a href="https://www.deviantart.com/mbcmechachu/art/National-Pokedex-Icon-Dex-824897934">here</a>
+
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/pokesprite-images.svg)](https://badge.fury.io/js/pokesprite-images) ![Updated for](https://img.shields.io/badge/Updated%20for-Pok%C3%A9mon%20Sword%2FShield%20(Crown%20Tundra%20DLC)-blue)
 
 # PokéSprite
